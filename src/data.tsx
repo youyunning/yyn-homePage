@@ -4,10 +4,10 @@ import { siteConfig } from "@/data/site";
 export const DATA = {
   url: siteConfig.url,
   lastUpdated: siteConfig.lastUpdated,
-  name: "Yunning You",
-  description: "iOS Developer & DevOps Engineer",
+  name: "Youyinian",
+  description: "iOS & Java Developer",
   chinese: {
-    name: "尤运宁",
+    name: "有一年",
   },
   navbar: [
     { href: "/", icon: Icons.home, label: "Home" },

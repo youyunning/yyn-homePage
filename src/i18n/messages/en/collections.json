@@ -66,15 +66,15 @@
   "work": {
     "items": [
       {
-        "company": "Wuhan Rural Commercial Bank",
+        "company": "Hankou Bank",
         "href": "",
         "badges": [],
         "location": "Wuhan",
-        "title": "DevOps Engineer · IT Department",
+        "title": "Java Developer",
         "logoUrl": "",
         "start": "2024.08",
         "end": "Present",
-        "description": "Built integrated monitoring system with Prometheus & Zabbix, reducing alert response time from 15s to 5s. Ensured 99.99% core system availability. Resolved multiple payment settlement anomalies."
+        "description": "Responsible for Java backend development and payment settlement system maintenance."
       },
 {
         "company": "Tencent",

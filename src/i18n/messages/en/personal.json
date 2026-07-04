@@ -1,15 +1,15 @@
 {
     "name": {
-        "full": "Yunning You",
-        "given": "Yunning",
+        "full": "Youyinian",
+        "given": "Youyinian",
         "family": "You",
         "initials": "YY"
     },
-    "subtitle": "尤运宁",
-    "headline": "iOS Developer & DevOps Engineer\nWuhan Rural Commercial Bank · IT Department",
+    "subtitle": "有一年",
+    "headline": "iOS Developer & Java Developer\nHankou Bank",
     "welcome": "Welcome to my homepage!",
     "ogImageUrl": "youyunning.github.io",
-    "bioMarkdown": "Hi, I'm Yunning👋. iOS Developer & DevOps Engineer based in Wuhan, China.\n\nI hold an M.S. in Computer Technology from China University of Geosciences (Wuhan), where I published 3 SCI Q1 papers. Currently working at Wuhan Rural Commercial Bank as a DevOps Engineer, while actively building iOS apps including NanoPineapple and EasyResume from the ground up.\n\nPreviously interned at Tencent and Yonyou, with solid full-stack capabilities in Java backend and iOS development.\n\n🔬 **Focus:** iOS Development, SwiftUI/UIKit, DevOps & Monitoring.",
+    "bioMarkdown": "Hi, I'm Youyinian👋. iOS & Java Developer based in Wuhan, China.\n\nI hold an M.S. in Computer Technology from China University of Geosciences (Wuhan), where I published 3 SCI Q1 papers. Currently working at Hankou Bank as a Java Developer, while actively building iOS apps including NanoPineapple and EasyResume from the ground up.\n\nPreviously interned at Tencent and Yonyou, with solid full-stack capabilities in Java backend and iOS development.\n\n🔬 **Focus:** iOS Development, SwiftUI/UIKit, Java Backend Development.",
     "location": {
         "name": "Wuhan, China",
         "mapUrl": "https://www.google.com/maps/place/wuhan"
