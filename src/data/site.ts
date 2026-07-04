@@ -6,8 +6,8 @@
 export const BLUR_FADE_DELAY = 0.05;
 
 export const siteConfig = {
-  url: "https://www.zangwei.dev", // Use 'www' for vercel recommendation
-  lastUpdated: "2025.12",
+  url: "https://github.com/youyunning/yyn-homePage",
+  lastUpdated: "2026.07",
   avatarUrl: "/me.png",
   blog: {
     /* Number of posts per page on the blog list */

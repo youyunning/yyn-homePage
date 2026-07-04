@@ -3,8 +3,8 @@
         "about": "关于我",
         "selectedProjects": "精选项目",
         "checkOutLatestWork": "查看我的最新作品",
-        "research": "研究",
-        "viewFullPublications": "查看我的完整出版物列表，请访问",
+        "research": "项目",
+        "viewFullPublications": "查看我的更多项目，请访问",
         "skills": "技能",
         "education": "教育背景",
         "workExperience": "实习与工作经历",
@@ -14,7 +14,7 @@
             "title": "最新动态"
         },
         "publications": {
-            "title": "发表论文"
+            "title": "项目经历"
         },
         "invitedTalks": {
             "title": "受邀报告"
@@ -96,40 +96,12 @@
             {
                 "name": "博客",
                 "url": "/blog"
-            },
-            {
-                "name": "模板",
-                "url": "https://github.com/zhengzangw/nextjs-portfolio-blog-research"
-            },
-            {
-                "name": "下载简历",
-                "url": "/resume.pdf"
-            },
-            {
-                "name": "站点二维码",
-                "url": "/qrcode.png"
-            },
-            {
-                "name": "名片",
-                "url": "/business-card-zh.jpg"
             }
         ],
         "discover": [
             {
-                "name": "HPC-AI Lab",
-                "url": "https://ai.comp.nus.edu.sg/"
-            },
-            {
-                "name": "iCyPhy",
-                "url": "https://www.icyphy.org/people.html"
-            },
-            {
-                "name": "NJU-CSE-Flyers",
-                "url": "https://nju-cse-flyers.github.io/"
-            },
-            {
-                "name": "HPC-AI Tech",
-                "url": "https://www.hpcaitech.com/"
+                "name": "GitHub",
+                "url": "https://github.com/youyunning/yyn-homePage"
             }
         ],
         "contact": {

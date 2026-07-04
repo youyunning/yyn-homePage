@@ -4,49 +4,35 @@ import { siteConfig } from "@/data/site";
 export const DATA = {
   url: siteConfig.url,
   lastUpdated: siteConfig.lastUpdated,
-  name: "Zangwei Zheng",
-  description: "AI Researcher & Full Stack Developer",
+  name: "Yunning You",
+  description: "iOS & Agent Developer",
   chinese: {
-    name: "郑奘巍",
+    name: "尤运宁",
   },
   navbar: [
     { href: "/", icon: Icons.home, label: "Home" },
     { href: "/blog", icon: Icons.notebook, label: "Blog" },
     { href: "/resume.pdf", icon: Icons.fileuser, label: "CV" },
   ],
-  location: "Singapore",
-  locationLink: "https://www.google.com/maps/place/singapore",
+  location: "Wuhan, China",
+  locationLink: "https://www.google.com/maps/place/wuhan",
   discover: [
-    { name: "HPC-AI Lab", url: "https://ai.comp.nus.edu.sg/" },
-    { name: "iCyPhy", url: "https://www.icyphy.org/people.html" },
     {
-      name: "Template",
-      url: "https://github.com/zhengzangw/nextjs-portfolio-blog-research",
+      name: "GitHub",
+      url: "https://github.com/youyunning/yyn-homePage",
     },
   ],
   contact: {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/zhengzangw",
+        url: "https://github.com/youyunning",
         icon: Icons.github,
-        footer: true,
-      },
-      X: {
-        name: "X",
-        url: "https://x.com/zangweizheng",
-        icon: Icons.x,
-        footer: true,
-      },
-      LinkedIn: {
-        name: "LinkedIn",
-        url: "https://www.linkedin.com/in/zangweizheng/",
-        icon: Icons.linkedin,
         footer: true,
       },
       email: {
         name: "Email",
-        url: "mailto:zhengzangwei@gmail.com",
+        url: "mailto:youyinian288@gmail.com",
         icon: Icons.email,
         footer: false,
       },

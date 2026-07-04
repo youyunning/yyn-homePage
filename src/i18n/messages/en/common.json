@@ -3,8 +3,8 @@
         "about": "About",
         "selectedProjects": "Selected Projects",
         "checkOutLatestWork": "Check out my latest work",
-        "research": "Research",
-        "viewFullPublications": "View the full list of my publications on",
+        "research": "Experience",
+        "viewFullPublications": "View more of my projects on",
         "skills": "Skills",
         "education": "Education",
         "workExperience": "Internship & Work Experience",
@@ -14,7 +14,7 @@
             "title": "Latest News"
         },
         "publications": {
-            "title": "Publications"
+            "title": "Project Experience"
         },
         "invitedTalks": {
             "title": "Invited Talks"
@@ -96,40 +96,12 @@
             {
                 "name": "Blog",
                 "url": "/blog"
-            },
-            {
-                "name": "Template",
-                "url": "https://github.com/zhengzangw/nextjs-portfolio-blog-research"
-            },
-            {
-                "name": "Download CV",
-                "url": "/resume.pdf"
-            },
-            {
-                "name": "QR code",
-                "url": "/qrcode.png"
-            },
-            {
-                "name": "Business card",
-                "url": "/business-card-en.jpg"
             }
         ],
         "discover": [
             {
-                "name": "HPC-AI Lab",
-                "url": "https://ai.comp.nus.edu.sg/"
-            },
-            {
-                "name": "iCyPhy",
-                "url": "https://www.icyphy.org/people.html"
-            },
-            {
-                "name": "NJU-CSE-Flyers",
-                "url": "https://nju-cse-flyers.github.io/"
-            },
-            {
-                "name": "HPC-AI Tech",
-                "url": "https://www.hpcaitech.com/"
+                "name": "GitHub",
+                "url": "https://github.com/youyunning/yyn-homePage"
             }
         ],
         "contact": {
