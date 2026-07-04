@@ -48,18 +48,7 @@
         "end": "至今",
         "description": "构建并优化一体化监控体系，基于 Prometheus 与 Zabbix 实现关键业务指标实时追踪与智能告警，将告警响应时间由 15 秒压缩至 5 秒；保障高可用与业务连续性，确保核心系统 99.99% 可用性；熟悉银行支付结算全流程与会计准则，独立解决多起账务异常问题。"
       },
-      {
-        "company": "武汉多比特科技有限公司",
-        "href": "",
-        "badges": [],
-        "location": "武汉",
-        "title": "iOS 开发工程师 & Agent 开发工程师",
-        "logoUrl": "",
-        "start": "",
-        "end": "",
-        "description": "负责 iOS 应用开发与 AI Agent 开发。"
-      },
-      {
+{
         "company": "腾讯",
         "href": "https://www.tencent.com/",
         "badges": [],

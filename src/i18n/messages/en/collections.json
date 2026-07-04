@@ -76,18 +76,7 @@
         "end": "Present",
         "description": "Built integrated monitoring system with Prometheus & Zabbix, reducing alert response time from 15s to 5s. Ensured 99.99% core system availability. Resolved multiple payment settlement anomalies."
       },
-      {
-        "company": "Wuhan Duobite Technology Co., Ltd.",
-        "href": "",
-        "badges": [],
-        "location": "Wuhan",
-        "title": "iOS & Agent Developer",
-        "logoUrl": "",
-        "start": "",
-        "end": "",
-        "description": "Responsible for iOS app development and AI Agent development."
-      },
-      {
+{
         "company": "Tencent",
         "href": "https://www.tencent.com/",
         "badges": [],
