@@ -271,13 +271,13 @@ export default function Footer() {
               <span>•</span>
               <span>{t.bottom.modifiedFrom}</span>
               <Link
-                href="https://github.com/zhengzangw/nextjs-portfolio-blog-research"
+                href="https://github.com/youyunning/yyn-homePage"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-foreground inline-flex items-center gap-1 transition-colors"
               >
                 <Icons.github className="h-4 w-4" />
-                <span>zhengzangw/nextjs-portfolio-blog-research</span>
+                <span>youyunning/yyn-homePage</span>
               </Link>
             </div>
           </div>
