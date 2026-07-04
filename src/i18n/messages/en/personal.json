@@ -1,0 +1,18 @@
+{
+    "name": {
+        "full": "Zangwei Zheng",
+        "given": "Zangwei",
+        "family": "Zheng",
+        "initials": "ZZ"
+    },
+    "subtitle": "郑奘巍, Ph.D.",
+    "headline": "AI Researcher & Full Stack Developer\nTech Lead at HPC-AI Tech",
+    "welcome": "Welcome to my homepage!",
+    "ogImageUrl": "zangwei.dev",
+    "bioMarkdown": "Hi, I'm Zangwei👋, founder of [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Video-Ocean](https://video-ocean.com/). I'm working on AI-powered video generation and SaaS products that bridge research and real-world creativity.\n\nI earned my Ph.D. from ![NUS Logo](/icon/nus.png) [National University of Singapore](https://nus.edu.sg/) (NUS), advised by Prof. [Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I had my research intern in ![Bytedance Logo](/icon/bytedance.png) [Bytedance](https://bytedance.com/), mentored by [Xuan Zhou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en) and [Youlong Cheng](https://scholar.google.com/citations?user=CSTk_LMAAAAJ&hl=en). I received my B.Sc. in Computer Science from ![NJU Logo](/icon/nju.png) [Nanjing University](https://www.nju.edu.cn/en/) (NJU). I worked remotely as a research intern at ![UC Berkeley Logo](/icon/ucb.png) [UC Berkeley](https://www.berkeley.edu/) for a year, mentored by Dr. [Xiangyu Yue](https://scholar.google.com/citations?user=-xQ-C1sAAAAJ&hl=en&authuser=1) and Prof. [Alberto L. Sangiovanni-Vincentelli](https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html). You can find more about my background in my [CV](./resume.pdf).\n\n🔬 **Research Interests:** Video Generation, Efficient ML and DL (Deep Learning) Optimization.",
+    "location": {
+        "name": "Singapore",
+        "mapUrl": "https://www.google.com/maps/place/singapore"
+    },
+    "blogTagline": "Thoughts on AI, software, life and more. Short notes and longer write-ups."
+}

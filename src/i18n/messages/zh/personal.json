@@ -1,0 +1,18 @@
+{
+    "name": {
+        "full": "郑奘巍",
+        "given": "奘巍",
+        "family": "郑",
+        "initials": "ZZ"
+    },
+    "subtitle": "博士",
+    "headline": "全栈开发者 & AI 研究员\nHPC-AI Tech 技术负责人",
+    "welcome": "欢迎来到我的主页!",
+    "ogImageUrl": "zangwei.dev/zh",
+    "bioMarkdown": "你好，我是郑奘巍👋，[Open-Sora](https://github.com/hpcaitech/Open-Sora) 和 [Video-Ocean](https://video-ocean.com/) 的创始人，专注于 AI 视频生成和 AI 产品。\n\n我博士毕业于 ![NUS Logo](/icon/nus.png) [新加坡国立大学](https://nus.edu.sg/)，师从 [尤洋教授](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=zh-CN)。曾于 ![Bytedance Logo](/icon/bytedance.png) [字节跳动](https://bytedance.com/) 担任科研实习生。本科毕业于 ![NJU Logo](/icon/nju.png) [南京大学](https://www.nju.edu.cn/en/) 计算机科学与技术专业（拔尖计划）。我还曾在 ![UC Berkeley Logo](/icon/ucb.png) [加州大学伯克利分校](https://www.berkeley.edu/) 远程科研实习一年，合作导师包括 [岳翔宇博士](https://scholar.google.com/citations?user=-xQ-C1sAAAAJ&hl=zh-CN&authuser=1) 和 [Alberto Sangiovanni-Vincentelli 教授](https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html)。更多背景信息欢迎查阅我的 [简历](./resume.pdf)。\n\n🔬 **研究方向：** 视频生成、高效机器学习与深度学习优化。",
+    "location": {
+        "name": "新加坡",
+        "mapUrl": "https://www.google.com/maps/place/singapore"
+    },
+    "blogTagline": "关于AI、软件、生活等的思考。短篇笔记和长篇写作。"
+}
