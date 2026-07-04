@@ -8,20 +8,26 @@
   "publications": {
     "items": [
       {
-        "title": "示例项目",
-        "href": "https://github.com/your-project",
-        "dates": "2025.1 - Present",
+        "title": "NanoPineapple - AI Image Generation App",
+        "href": "",
+        "dates": "2025.09 - Present",
         "active": true,
-        "description": "项目描述，请替换为你自己的项目经历。",
-        "technologies": ["iOS", "Agent"],
+        "description": "Led iOS app development from 0→1. Built with Clean Architecture + MVVM, Combine for data flow, 8 modular components, 80%+ unit test coverage. Developed open-source streaming Markdown rendering engine AITextView (WebKit + Swift hybrid). Set up Fastlane + GitFlow CI/CD pipeline, reducing release time from 2 hours to 15 minutes.",
+        "technologies": ["Swift", "SwiftUI", "Combine", "Clean Architecture", "MVVM", "Fastlane", "CI/CD"],
         "authors": "",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/your-project",
-            "icon": "github"
-          }
-        ],
+        "links": [],
+        "image": "",
+        "video": ""
+      },
+      {
+        "title": "EasyResume - Resume Builder & AI Optimizer",
+        "href": "",
+        "dates": "2019.08 - Present",
+        "active": true,
+        "description": "Independently designed, developed, and published on App Store. Thousands of users, $30 MRR. Built reactive list architecture with RxSwift + RxDataSources, reducing boilerplate by 40%. Implemented PDF engine using Strategy & Template Method patterns. Solved heterogeneous stamp serialization with type erasure.",
+        "technologies": ["Swift", "RxSwift", "RxDataSources", "PDFKit", "UIKit"],
+        "authors": "",
+        "links": [],
         "image": "",
         "video": ""
       }
@@ -32,31 +38,44 @@
       {
         "school": "China University of Geosciences, Wuhan",
         "href": "https://www.cug.edu.cn/",
-        "degree": "Master's Degree",
+        "degree": "M.S. in Computer Technology",
         "logoUrl": "/icon/nju.png",
-        "start": "",
-        "end": ""
+        "start": "2021.09",
+        "end": "2024.06",
+        "description": "Published 3 SCI Q1 papers (first author), first-class scholarship for 3 consecutive years"
       },
       {
         "school": "Wuhan Textile University",
         "href": "https://www.wtu.edu.cn/",
-        "degree": "Bachelor's Degree",
+        "degree": "B.S. in Information and Computing Science",
         "logoUrl": "/icon/nju.png",
-        "start": "",
-        "end": ""
+        "start": "2017.09",
+        "end": "2021.06",
+        "description": "Outstanding Graduate, EI paper, National Second Prize in Teddy Cup Data Mining"
       },
       {
         "school": "Zhijiang No.1 Senior High School",
         "href": "",
         "degree": "High School Diploma",
         "logoUrl": "/icon/xishan.png",
-        "start": "",
-        "end": ""
+        "start": "2014.09",
+        "end": "2017.06"
       }
     ]
   },
   "work": {
     "items": [
+      {
+        "company": "Wuhan Rural Commercial Bank",
+        "href": "",
+        "badges": [],
+        "location": "Wuhan",
+        "title": "DevOps Engineer · IT Department",
+        "logoUrl": "",
+        "start": "2024.08",
+        "end": "Present",
+        "description": "Built integrated monitoring system with Prometheus & Zabbix, reducing alert response time from 15s to 5s. Ensured 99.99% core system availability. Resolved multiple payment settlement anomalies."
+      },
       {
         "company": "Wuhan Duobite Technology Co., Ltd.",
         "href": "",
@@ -65,19 +84,8 @@
         "title": "iOS & Agent Developer",
         "logoUrl": "",
         "start": "",
-        "end": "Present",
-        "description": "Responsible for iOS app development and AI Agent development."
-      },
-      {
-        "company": "Wuhan Rural Commercial Bank",
-        "href": "",
-        "badges": [],
-        "location": "Wuhan",
-        "title": "Java Developer",
-        "logoUrl": "",
-        "start": "",
         "end": "",
-        "description": "Responsible for Java backend development."
+        "description": "Responsible for iOS app development and AI Agent development."
       },
       {
         "company": "Tencent",
@@ -113,28 +121,31 @@
     "items": []
   },
   "skills": [
-    "Java",
     "Swift",
     "Objective-C",
-    "iOS Development",
-    "Agent Development",
+    "SwiftUI",
+    "UIKit",
+    "Combine",
+    "RxSwift",
+    "Clean Architecture",
+    "MVVM",
+    "Java",
     "Spring Boot",
-    "Spring Cloud",
+    "Python",
+    "Prometheus",
+    "Zabbix",
+    "Docker",
+    "Fastlane",
+    "CI/CD",
+    "Git / GitFlow",
+    "CocoaPods / SPM",
+    "Instruments",
     "MySQL",
     "PostgreSQL",
     "Redis",
-    "Docker",
-    "Git",
-    "SwiftUI",
-    "UIKit",
-    "Xcode",
-    "Maven",
-    "GitHub Actions",
     "Linux",
-    "RESTful API",
-    "Vue.js",
-    "JavaScript",
-    "Python"
+    "MLX",
+    "RESTful API"
   ],
   "reviewerConferences": [],
   "reviewerJournals": [],
@@ -149,7 +160,7 @@
     },
     "email": {
       "name": "Email",
-      "url": "mailto:youyinian288@gmail.com",
+      "url": "mailto:youyunning@cug.edu.cn",
       "icon": "email",
       "navbar": false,
       "content": true,

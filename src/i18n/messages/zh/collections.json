@@ -10,31 +10,44 @@
       {
         "school": "中国地质大学（武汉）",
         "href": "https://www.cug.edu.cn/",
-        "degree": "硕士研究生",
+        "degree": "计算机技术 硕士",
         "logoUrl": "/icon/nju.png",
-        "start": "",
-        "end": ""
+        "start": "2021.09",
+        "end": "2024.06",
+        "description": "发表 3 篇 SCI 一区论文（一作），连续三年获得一等奖学金"
       },
       {
         "school": "武汉纺织大学",
         "href": "https://www.wtu.edu.cn/",
-        "degree": "本科",
+        "degree": "信息与计算科学 本科",
         "logoUrl": "/icon/nju.png",
-        "start": "",
-        "end": ""
+        "start": "2017.09",
+        "end": "2021.06",
+        "description": "优秀毕业生，发表 EI 论文，泰迪杯数据挖掘国家二等奖"
       },
       {
         "school": "枝江市第一高级中学",
         "href": "",
         "degree": "高中",
         "logoUrl": "/icon/xishan.png",
-        "start": "",
-        "end": ""
+        "start": "2014.09",
+        "end": "2017.06"
       }
     ]
   },
   "work": {
     "items": [
+      {
+        "company": "武汉农村商业银行",
+        "href": "",
+        "badges": [],
+        "location": "武汉",
+        "title": "运维开发工程师 · 总行信息科技部",
+        "logoUrl": "",
+        "start": "2024.08",
+        "end": "至今",
+        "description": "构建并优化一体化监控体系，基于 Prometheus 与 Zabbix 实现关键业务指标实时追踪与智能告警，将告警响应时间由 15 秒压缩至 5 秒；保障高可用与业务连续性，确保核心系统 99.99% 可用性；熟悉银行支付结算全流程与会计准则，独立解决多起账务异常问题。"
+      },
       {
         "company": "武汉多比特科技有限公司",
         "href": "",
@@ -43,19 +56,8 @@
         "title": "iOS 开发工程师 & Agent 开发工程师",
         "logoUrl": "",
         "start": "",
-        "end": "至今",
-        "description": "负责 iOS 应用开发与 AI Agent 开发。"
-      },
-      {
-        "company": "武汉农村商业银行",
-        "href": "",
-        "badges": [],
-        "location": "武汉",
-        "title": "Java 开发工程师",
-        "logoUrl": "",
-        "start": "",
         "end": "",
-        "description": "负责 Java 后端开发。"
+        "description": "负责 iOS 应用开发与 AI Agent 开发。"
       },
       {
         "company": "腾讯",
@@ -87,20 +89,26 @@
   "publications": {
     "items": [
       {
-        "title": "示例项目",
-        "href": "https://github.com/your-project",
-        "dates": "2025.1 - 至今",
+        "title": "NanoPineapple - AI 图像生成应用",
+        "href": "",
+        "dates": "2025.09 - 至今",
         "active": true,
-        "description": "项目描述，请替换为你自己的项目经历。",
-        "technologies": ["iOS", "Agent"],
+        "description": "主导 AI 图像生成应用的 iOS 端 0→1 开发。基于 Clean Architecture + MVVM 分层架构，Combine 管理数据流，8 个模块化拆分，单元测试覆盖率 80%+。独立研发开源高性能流式 Markdown 渲染引擎 AITextView（WebKit + Swift 混合架构），实现大段文本低延迟流式输出。搭建 Fastlane + GitFlow CI/CD 流程，版本发布时间从 2 小时降至 15 分钟。",
+        "technologies": ["Swift", "SwiftUI", "Combine", "Clean Architecture", "MVVM", "Fastlane", "CI/CD"],
         "authors": "",
-        "links": [
-          {
-            "type": "Github",
-            "href": "https://github.com/your-project",
-            "icon": "github"
-          }
-        ],
+        "links": [],
+        "image": "",
+        "video": ""
+      },
+      {
+        "title": "EasyResume - 简历制作与 AI 优化工具",
+        "href": "",
+        "dates": "2019.08 - 至今",
+        "active": true,
+        "description": "独立完成产品设计、开发及 App Store 上架，累计数千用户，MRR $30。设计基于 RxSwift + RxDataSources 的响应式列表架构，减少 40% 模板代码。用策略与模板方法模式构建 PDF 引擎，解耦样式与内容。用类型擦除技术解决异构印章集合序列化难题。",
+        "technologies": ["Swift", "RxSwift", "RxDataSources", "PDFKit", "UIKit"],
+        "authors": "",
+        "links": [],
         "image": "",
         "video": ""
       }
@@ -113,28 +121,31 @@
     "items": []
   },
   "skills": [
-    "Java",
     "Swift",
     "Objective-C",
-    "iOS 开发",
-    "Agent 开发",
+    "SwiftUI",
+    "UIKit",
+    "Combine",
+    "RxSwift",
+    "Clean Architecture",
+    "MVVM",
+    "Java",
     "Spring Boot",
-    "Spring Cloud",
+    "Python",
+    "Prometheus",
+    "Zabbix",
+    "Docker",
+    "Fastlane",
+    "CI/CD",
+    "Git / GitFlow",
+    "CocoaPods / SPM",
+    "Instruments",
     "MySQL",
     "PostgreSQL",
     "Redis",
-    "Docker",
-    "Git",
-    "SwiftUI",
-    "UIKit",
-    "Xcode",
-    "Maven",
-    "GitHub Actions",
     "Linux",
-    "RESTful API",
-    "Vue.js",
-    "JavaScript",
-    "Python"
+    "MLX",
+    "RESTful API"
   ],
   "reviewerConferences": [],
   "reviewerJournals": [],
@@ -149,7 +160,7 @@
     },
     "email": {
       "name": "邮箱",
-      "url": "mailto:youyinian288@gmail.com",
+      "url": "mailto:youyunning@cug.edu.cn",
       "icon": "email",
       "navbar": false,
       "content": true,

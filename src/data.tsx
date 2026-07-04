@@ -5,7 +5,7 @@ export const DATA = {
   url: siteConfig.url,
   lastUpdated: siteConfig.lastUpdated,
   name: "Yunning You",
-  description: "iOS & Agent Developer",
+  description: "iOS Developer & DevOps Engineer",
   chinese: {
     name: "尤运宁",
   },
@@ -32,7 +32,7 @@ export const DATA = {
       },
       email: {
         name: "Email",
-        url: "mailto:youyinian288@gmail.com",
+        url: "mailto:youyunning@cug.edu.cn",
         icon: Icons.email,
         footer: false,
       },

@@ -6,10 +6,10 @@
         "initials": "YY"
     },
     "subtitle": "尤运宁",
-    "headline": "iOS & Agent Developer",
+    "headline": "iOS Developer & DevOps Engineer\nWuhan Rural Commercial Bank · IT Department",
     "welcome": "Welcome to my homepage!",
-    "ogImageUrl": "your-domain.com",
-    "bioMarkdown": "Hi, I'm Yunning👋. I'm an iOS Developer and Agent Developer based in Wuhan, China.\n\nI'm currently working at Wuhan Duobite Technology as an iOS & Agent Developer. Previously, I worked as a Java Developer at Wuhan Rural Commercial Bank, and completed internships at Tencent and Yonyou.\n\nI hold a Master's degree from China University of Geosciences (Wuhan) and a Bachelor's degree from Wuhan Textile University.\n\n🔬 **Focus:** iOS Development, AI Agent Development, Java Backend Development.",
+    "ogImageUrl": "youyunning.github.io",
+    "bioMarkdown": "Hi, I'm Yunning👋. iOS Developer & DevOps Engineer based in Wuhan, China.\n\nI hold an M.S. in Computer Technology from China University of Geosciences (Wuhan), where I published 3 SCI Q1 papers. Currently working at Wuhan Rural Commercial Bank as a DevOps Engineer, while actively building iOS apps including NanoPineapple and EasyResume from the ground up.\n\nPreviously interned at Tencent and Yonyou, with solid full-stack capabilities in Java backend and iOS development.\n\n🔬 **Focus:** iOS Development, SwiftUI/UIKit, Agent Development, DevOps & Monitoring.",
     "location": {
         "name": "Wuhan, China",
         "mapUrl": "https://www.google.com/maps/place/wuhan"
