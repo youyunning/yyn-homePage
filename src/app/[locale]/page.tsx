@@ -249,11 +249,11 @@ export default async function Page(props: {
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   {t("sections.viewFullPublications")}{" "}
                   <Link
-                    href={socialData.GoogleScholar.url}
+                    href={socialData.GitHub.url}
                     className="text-foreground underline hover:no-underline"
                     target="_blank"
                   >
-                    {socialData.GoogleScholar.name}
+                    {socialData.GitHub.name}
                   </Link>
                 </p>
               </div>

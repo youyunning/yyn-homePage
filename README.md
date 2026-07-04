@@ -54,8 +54,7 @@ Visit [`http://localhost:3000`](http://localhost:3000).
 
 ### 🚀 Deploy to Vercel
 
-Click the Deploy button above, or connect this repo to Vercel directly.
-
+[![Deploy with Vercel](https://vercel.com/button)]()  
+Your portfolio will be live in minutes! No config needed. Vercel’s generous free plan is perfect for personal and demo sites.
 ---
 
-Inspired by [nextjs-portfolio-blog-research](https://github.com/zhengzangw/nextjs-portfolio-blog-research) by @zhengzangw.
